@@ -271,7 +271,7 @@ ALTER TABLE ONLY public.star ALTER COLUMN star_id SET DEFAULT nextval('public.st
 INSERT INTO public.asteroid VALUES (1, 'Ceres', 945, 1801, false);
 INSERT INTO public.asteroid VALUES (2, 'Vesta', 525, 1807, false);
 INSERT INTO public.asteroid VALUES (3, 'Pallas', 512, 1802, false);
-INSERT INTO public.asteroid VALUES (4, 'Eros', 17, 1898, true);
+INSERT INTO public.asteroid VALUES (4, 'Giuliusmius', 17, 1898, true);
 INSERT INTO public.asteroid VALUES (5, 'Rodrigus', 0.37, 1996, true);
 INSERT INTO public.asteroid VALUES (6, 'Apophis', 0.37, 2004, true);
 
